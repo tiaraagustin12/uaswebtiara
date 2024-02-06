@@ -24,7 +24,7 @@ if (isset($_GET['id'])) {
 
     <link rel="stylesheet" href="style.css">
 
-    <title>Gian Shop | Detail Produk</title>
+    <title>Tiara Shop | Detail Produk</title>
 </head>
 
 <body>
